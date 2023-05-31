@@ -6,11 +6,10 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ### Screenshot 
 
-
+![Result Summary](https://github.com/Anshmittal86/Result-summary/blob/main/design/Result%20Summary.jpeg)
 
 ### Links
 
