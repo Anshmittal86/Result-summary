@@ -13,8 +13,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Anshmittal86/Result-summary.git)
+- Live Site URL: [Preview](https://anshmittal86.github.io/Result-summary/)
 
 
 
